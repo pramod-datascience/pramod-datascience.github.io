@@ -1,6 +1,8 @@
 ---
 title: "pramod-datascience's website"
-output: html_document
+output:
+  html_document:
+    theme: spacelab
 ---
 
 ```{r setup, include=FALSE}

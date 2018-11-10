@@ -1,8 +1,4 @@
----
-title: "pramod-datascience's website"
-output:
-  html_document:
-    theme: spacelab
+--- title: "Pramod GHimire's website" output: html_document: theme: spacelab toc: true toc_depth: 3 toc_float: true ---
 ---
 
 ```{r setup, include=FALSE}

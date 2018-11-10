@@ -10,6 +10,9 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
+![](img/pramod.png){width=100px}
+
 ## About
 Thank you very much for coming here. This is awesome. This was prepared after doing a course from JHU on leanpub !
 
